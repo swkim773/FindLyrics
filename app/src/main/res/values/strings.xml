@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FindLyrics</string>
+    <string name="activity1_name">가사 찾기</string>
+    <string name="activity2_name">가사 찾기 (A)</string>
+</resources>
